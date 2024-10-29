@@ -1,0 +1,41 @@
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    .tower {
+        .row {
+            margin-bottom: 6px;
+    
+            .brick {
+                min-width: 60px;
+                max-width: 60px;
+                width: 60px;
+                height: 20px;
+                display: inline-block;
+                margin-right: 3px;
+                border: 1px solid transparent;
+            }
+    
+            .brick-exists {
+                border: 1px solid brown;
+                background-color: brown;
+            }
+        }
+    }
+    
+    .actions {
+        input {
+            margin-right: 0.5rem;
+        }
+
+        button {
+            margin-right: 1rem
+        }
+
+        .confirm-reset {
+            margin-right: 0.5rem;
+        }
+    }
+}
+
+

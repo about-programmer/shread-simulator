@@ -1,6 +1,6 @@
 # Shread
 
-An Angular implementation of [Shread, Dread via Google Sheets](https://old.reddit.com/r/dread/comments/zqbj9m/shread_dread_via_google_sheets_revisit/)
+An Angular implementation of [Shread, Dread via Google Sheets](https://old.reddit.com/r/dread/comments/zqbj9m/shread_dread_via_google_sheets_revisit/). This was built in like 90 minutes so don't expect the world's prettiest code.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
 
